@@ -1,0 +1,23 @@
+{
+  "name": "myapp4111",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start":"nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chananchida58364111/305471--index.js.git"
+  },
+  "author": "chananchida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chananchida58364111/305471--index.js/issues"
+  },
+  "homepage": "https://github.com/Chananchida58364111/305471--index.js#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

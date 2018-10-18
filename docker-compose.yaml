@@ -1,0 +1,8 @@
+version: '3.5'
+services:
+  myapp411:
+    image: chananchida/node-express
+    ports:
+      - "8009:8000"
+    command: "node index.js"
+
